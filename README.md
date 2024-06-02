@@ -3,10 +3,10 @@ The project aimed to gain insights into customer purchasing habits using RFM (Re
 
 # Table of Content
 
- [Data](https://github.com/VaishnaviMane17/RFM-Analysis-in-Retail-Industry/blob/ad507cae1ba191a49e5efe44fad5c6f62ca258fb/Customer%20Online%20Retail.csv)
+- [Data](https://github.com/VaishnaviMane17/RFM-Analysis-in-Retail-Industry/blob/ad507cae1ba191a49e5efe44fad5c6f62ca258fb/Customer%20Online%20Retail.csv)
 
- [Report Presentation](https://github.com/VaishnaviMane17/RFM-Analysis-in-Retail-Industry/blob/main/RFM%20Analysis.pdf)
+- [Report Presentation](https://github.com/VaishnaviMane17/RFM-Analysis-in-Retail-Industry/blob/main/RFM%20Analysis.pdf)
 
- [Code](RFM_Analysis.ipynb)
+- [Code](RFM_Analysis.ipynb)
 
  
